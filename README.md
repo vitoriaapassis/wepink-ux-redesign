@@ -17,7 +17,7 @@ Projeto de redesign UX/UI desenvolvido no Figma com foco em experiência do usu�
 - GitHub
 
 ### 🔗 Protótipo
-Adicione aqui o link do Figma.
+https://www.figma.com/design/MUlXg2C0aMpSSPhUXHP3uP/WEPINK-UX-ENTREGUE?node-id=0-1&t=gDFZw8E4LazrhpkX-1
 
 ---
 
@@ -38,4 +38,4 @@ UX/UI redesign project developed in Figma focused on user experience, usability,
 - GitHub
 
 ### 🔗 Prototype
-Add the Figma link here.
+https://www.figma.com/design/MUlXg2C0aMpSSPhUXHP3uP/WEPINK-UX-ENTREGUE?node-id=0-1&t=gDFZw8E4LazrhpkX-1
